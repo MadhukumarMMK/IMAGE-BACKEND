@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/MadhukumarMMK/IMAGE-BACKEND/issues"
   },
-  "homepage": "https://github.com/MadhukumarMMK/IMAGE-BACKEND#readme"
+  "homepage": "https://github.com/MadhukumarMMK/IMAGE-BACKEND#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
+  }
 }
